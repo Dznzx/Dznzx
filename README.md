@@ -99,15 +99,6 @@ Beyond the web stack I work on applied deep learning — multi-task CNNs, Grad-C
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dznzx&show_icons=true&hide_border=true&theme=transparent&icon_color=6366f1&title_color=6366f1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dznzx&layout=compact&hide_border=true&theme=transparent&title_color=6366f1" />
-</p>
-
----
-
 <p align="center">
   <i>Open to internships and collaborations on anything AI-shaped.</i><br><br>
   <a href="mailto:dineshkarthickl158@gmail.com">
