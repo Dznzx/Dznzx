@@ -77,7 +77,7 @@ ML platform that predicts academic risk from performance data and surfaces it to
 </tr>
 </table>
 
-Also: **[MedWatch](https://github.com/Dznzx/manipal-hackathon-medwatch)** — a regional medicine-shortage early warning dashboard, built for Manipal Hackathon 2026 (SDG 3).
+Also: **[MedWatch](https://github.com/Dznzx/manipal-hackathon-medwatch)** — a regional medicine-shortage early warning dashboard, built for Manipal Hackathon 2026 (SDG 3) · **[CHIC Connect](https://github.com/Dznzx/chic-connect-website)** — clinic site with live doctor data, real appointment booking, an authenticated admin panel and server-side email.
 
 ---
 
