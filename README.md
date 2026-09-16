@@ -37,7 +37,7 @@ Upload your PDFs and notes, then chat with them, generate quizzes and flashcards
 
 Most civic apps stop at the complaint. CivicSetu treats it as the *start* — reports are clustered and routed to whoever can act, including universities and industry who take the real ones on as projects. Eight stakeholder roles, bilingual, installable PWA with AI triage.
 
-`Vanilla JS` · `PWA` · `i18n` · `Supabase` — [live →](https://civicsetu-sih.vercel.app)
+`Vanilla JS` · `PWA` · `i18n` · `Supabase` — [live →](https://civicsetu-seven.vercel.app)
 
 </td>
 <td width="50%" valign="top">
