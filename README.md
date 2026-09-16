@@ -20,6 +20,10 @@ Upload your PDFs and notes, then chat with them, generate quizzes and flashcards
 
 `Next.js 14` · `Prisma` · `Pinecone` · `LangChain` · `Clerk` · `Supabase` — **[live demo →](https://academic-twin-rouge.vercel.app)**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dznzx/academic-twin-2/main/docs/screenshot.png" width="760" alt="Academic Twin" />
+</p>
+
 ---
 
 ### 🧩 Selected work
@@ -31,9 +35,9 @@ Upload your PDFs and notes, then chat with them, generate quizzes and flashcards
 #### 🏛️ [CivicSetu](https://github.com/Dznzx/civicsetu)
 **Report. Route. Resolve.**
 
-Civic issue reporting that routes a complaint to the right authority and tracks it to resolution. Two deliberate personalities in one product — a warm, low-literacy-friendly citizen app and a dense authority dashboard. Bilingual, installable PWA.
+Most civic apps stop at the complaint. CivicSetu treats it as the *start* — reports are clustered and routed to whoever can act, including universities and industry who take the real ones on as projects. Eight stakeholder roles, bilingual, installable PWA with AI triage.
 
-`Vanilla JS` · `PWA` · `i18n` — [live →](https://civicsetu-sih.vercel.app)
+`Vanilla JS` · `PWA` · `i18n` · `Supabase` — [live →](https://civicsetu-sih.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -57,6 +61,8 @@ An education platform built for students and schools in Tamil Nadu — designed 
 
 `React 19` · `Gemini` · `Supabase` · `Vite` — [live →](https://kalvi-ai-five.vercel.app)
 
+<img src="https://raw.githubusercontent.com/Dznzx/Kalvi-Ai/main/docs/screenshot.png" alt="Kalvi.AI" />
+
 </td>
 <td width="50%" valign="top">
 
@@ -71,7 +77,7 @@ ML platform that predicts academic risk from performance data and surfaces it to
 </tr>
 </table>
 
-Also: **[MedWatch](https://github.com/Dznzx/manipal-hackathon-medwatch)** — a regional medicine-shortage early warning dashboard (Manipal Hackathon 2026, SDG 3) · **[CHIC Connect](https://github.com/Dznzx/chic-connect-website)** — clinic site with real appointment booking, admin panel and server-side email.
+Also: **[MedWatch](https://github.com/Dznzx/manipal-hackathon-medwatch)** — a regional medicine-shortage early warning dashboard, built for Manipal Hackathon 2026 (SDG 3).
 
 ---
 
