@@ -10,6 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=Dznzx&label=Profile%20views&color=6366f1&style=flat-square" alt="profile views" />
 </p>
 
+<p align="center">
+  Five of the projects below — Academic Twin, CivicSetu, MedWatch, SpendWise, and Student Risk Analytics — are part of <b><a href="https://companywebsite-qn3j.vercel.app">Veltron Group</a></b>, an umbrella I'm building for AI products that actually ship.
+</p>
+
 ---
 
 ### 🚀 Currently building
@@ -77,7 +81,7 @@ ML platform that predicts academic risk from performance data and surfaces it to
 </tr>
 </table>
 
-Also: **[MedWatch](https://github.com/Dznzx/manipal-hackathon-medwatch)** — a regional medicine-shortage early warning dashboard, built for Manipal Hackathon 2026 (SDG 3) · [live →](https://manipal-hackathon-medwatch.vercel.app) · **[CHIC Connect](https://github.com/Dznzx/chic-connect-website)** — clinic site with live doctor data, real appointment booking, an authenticated admin panel and server-side email.
+Also: **[MedWatch](https://github.com/Dznzx/manipal-hackathon-medwatch)** — a regional medicine-shortage early warning dashboard, built for Manipal Hackathon 2026 (SDG 3) · [live →](https://manipal-hackathon-medwatch.vercel.app) · **[SpendWise](https://github.com/Dznzx/Spendwise-FInAI)** — see the trade-off before you spend, budgeting that shows what an impulse buy actually costs your goals · [live →](https://spendwise-omega-eight.vercel.app) · **[CHIC Connect](https://github.com/Dznzx/chic-connect-website)** — clinic site with live doctor data, real appointment booking, an authenticated admin panel and server-side email.
 
 ---
 
